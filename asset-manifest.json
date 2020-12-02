@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fletcher-dick/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/fletcher-dick/static/js/main.a188f243.chunk.js",
-    "main.js.map": "/fletcher-dick/static/js/main.a188f243.chunk.js.map",
-    "runtime-main.js": "/fletcher-dick/static/js/runtime-main.83a4a283.js",
-    "runtime-main.js.map": "/fletcher-dick/static/js/runtime-main.83a4a283.js.map",
-    "static/js/2.d3da7a75.chunk.js": "/fletcher-dick/static/js/2.d3da7a75.chunk.js",
-    "static/js/2.d3da7a75.chunk.js.map": "/fletcher-dick/static/js/2.d3da7a75.chunk.js.map",
-    "static/js/3.6cd72ec7.chunk.js": "/fletcher-dick/static/js/3.6cd72ec7.chunk.js",
-    "static/js/3.6cd72ec7.chunk.js.map": "/fletcher-dick/static/js/3.6cd72ec7.chunk.js.map",
-    "index.html": "/fletcher-dick/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/fletcher-dick/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d3da7a75.chunk.js.LICENSE.txt": "/fletcher-dick/static/js/2.d3da7a75.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/fletcher-dick/static/media/logo.6ce24c58.svg"
+    "main.css": "/Portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Portfolio/static/js/main.a188f243.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.a188f243.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.13fcd38e.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.13fcd38e.js.map",
+    "static/js/2.d3da7a75.chunk.js": "/Portfolio/static/js/2.d3da7a75.chunk.js",
+    "static/js/2.d3da7a75.chunk.js.map": "/Portfolio/static/js/2.d3da7a75.chunk.js.map",
+    "static/js/3.6cd72ec7.chunk.js": "/Portfolio/static/js/3.6cd72ec7.chunk.js",
+    "static/js/3.6cd72ec7.chunk.js.map": "/Portfolio/static/js/3.6cd72ec7.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d3da7a75.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d3da7a75.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83a4a283.js",
+    "static/js/runtime-main.13fcd38e.js",
     "static/js/2.d3da7a75.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.a188f243.chunk.js"
